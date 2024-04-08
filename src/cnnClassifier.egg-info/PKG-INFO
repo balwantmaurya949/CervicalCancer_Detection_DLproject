@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/balwantmaurya949/CervicalCancer_Detection_DLproject
+Author: balwantmaurya949
+Author-email: prem.maurya949@gmail.com
+Project-URL: Bug Tracker, https://github.com/balwantmaurya949/CervicalCancer_Detection_DLproject/issues
+
+;; Cervical Cancer Detection deep learning Project
