@@ -1,13 +1,15 @@
-;; Cervical Cancer Detection deep learning Project
+<h2>Cervical Cancer Detection deep learning Project</h2>
 
-;; Workflows
-1.Update config.yaml
-2.Update secrets.yaml [Optional]
-3.Update params.yaml
-4.Update the entity
-5.Update the configuration manager in src config
-6.Update the components
-7.Update the pipeline
-8.Update the main.py
-9.Update the dvc.yaml
-10.app.py
+<h4>Workflows</h4>
+<ol>
+  <li>Update config.yaml</li>
+  <li>Update secrets.yaml [Optional]</li>
+  <li>Update params.yaml</li>
+  <li>Update the entity</li>
+  <li>Update the configuration manager in src config</li>
+  <li>Update the components</li>
+  <li>Update the pipeline</li>
+  <li>Update the main.py</li>
+  <li>Update the dvc.yaml</li>
+  <li>app.py</li>
+</ol>
